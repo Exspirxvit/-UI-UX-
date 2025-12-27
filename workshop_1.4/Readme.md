@@ -18,3 +18,5 @@
 <img width="364" height="407" alt="image" src="https://github.com/user-attachments/assets/b007d9b0-3bfa-4763-807d-86c6950cffd3" />  
 1.3 AVIF 75%  
 <img width="364" height="407" alt="image" src="https://github.com/user-attachments/assets/3b893de9-25e6-4379-9e5e-0e61a0c4aaef" />  
+Усі зображення було одразу оптимізовао згідно пукту 4, але вага зображення стала більше через баг відображення Dolphin. Але якщо вірити сайту то вага першого зображення зменшилась на 73% другого на 17% та третього на 42%.  
+Висновок: Я навчився оптимізувати зображення за допомогою Squoosh.  
