@@ -13,7 +13,7 @@
 <img width="355" height="342" alt="image" src="https://github.com/user-attachments/assets/ba04ec46-9fd2-43cb-abf2-14c9cf99f610" />  
 2)  
 1.1 WebP 75% lossy  
-<img width="361" height="361" alt="image" src="https://github.com/user-attachments/assets/a37e3c9b-14ce-4a01-abde-a8ab78d336b1" />
+<img width="361" height="361" alt="image" src="https://github.com/user-attachments/assets/a37e3c9b-14ce-4a01-abde-a8ab78d336b1" />  
 1.2 WebP lossless  
 <img width="364" height="407" alt="image" src="https://github.com/user-attachments/assets/b007d9b0-3bfa-4763-807d-86c6950cffd3" />  
 1.3 AVIF 75%  
